@@ -1,7 +1,7 @@
 import java.util.*;
 
 // Krushal's Algorithm 
-public class Mars {
+public class BasketBall {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
