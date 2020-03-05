@@ -15,6 +15,8 @@ public class BasketBall {
 			players.add(new Player(scanner.next()));
 		}
 		
+		Collections.sort(players);
+		
 		for(int i = 0; i < lines; i++) {
 			String name = scanner.next();
 			int points = scanner.nextInt();
