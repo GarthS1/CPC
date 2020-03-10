@@ -57,7 +57,6 @@ public class Tree<T> {
 			if(tracker.children.get(0).getData().equals(data)  ) {
 				
 			}
-			
 		}
 		
 	} 
